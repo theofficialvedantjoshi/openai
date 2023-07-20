@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 messages = []
 sys_msg = input("Enter The Type Of Assistant:\n")
